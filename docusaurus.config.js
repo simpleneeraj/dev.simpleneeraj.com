@@ -47,11 +47,6 @@ const config = {
             position: "right",
             to: "/blog",
           },
-          {
-            label: "Documentation",
-            position: "right",
-            to: "/terms",
-          },
         ],
       },
 
